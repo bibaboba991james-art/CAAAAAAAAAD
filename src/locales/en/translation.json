@@ -1,0 +1,302 @@
+{
+  "general": {
+    "appName": "ProWerk",
+    "tagline": "Premium Professional Tools",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "notFound": "Page not found",
+    "goBack": "Go back",
+    "goHome": "Go to homepage"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "cart": "Cart",
+    "returnPolicy": "Return Policy"
+  },
+  "home": {
+    "hero": {
+      "title": "Professional Tools for Professionals",
+      "subtitle": "High-quality tools for demanding applications",
+      "cta": "Discover Products"
+    },
+    "featured": {
+      "title": "Featured Products",
+      "viewAll": "View All"
+    },
+    "benefits": {
+      "title": "Why ProWerk?",
+      "quality": {
+        "title": "Premium Quality",
+        "description": "All our products are original goods with 3 years warranty"
+      },
+      "delivery": {
+        "title": "Fast Delivery",
+        "description": "Free delivery throughout Europe within 14 days"
+      },
+      "support": {
+        "title": "Expert Advice",
+        "description": "Our team is available to answer your questions"
+      }
+    },
+    "trustBadges": {
+      "title": "Why trust ProWerk?"
+    }
+  },
+  "products": {
+    "title": "All Products",
+    "categories": {
+      "all": "All Categories",
+      "drills": "Drills",
+      "saws": "Saws",
+      "sanders": "Sanders",
+      "lasers": "Lasers & Measuring Tools",
+      "outdoor": "Garden Tools",
+      "robotVacuums": "Robot Vacuums",
+      "powerStations": "Power Stations",
+      "mowers": "Lawn Mowers",
+      "chainsaws": "Chainsaws",
+      "cutters": "Cut-off Grinders",
+      "vacuums": "Vacuum Cleaners",
+      "washingMachines": "Washing Machines",
+      "refrigerators": "Refrigerators",
+      "fryers": "Fryers",
+      "solarSystems": "Solar Systems",
+      "heatingBoilers": "Heating Boilers",
+      "televisions": "Televisions",
+      "audioSystems": "Audio Systems",
+      "lawnTractors": "Lawn Tractors",
+      "industrialVacuums": "Industrial Vacuums",
+      "coffeeAutomats": "Coffee Machines",
+      "hairStyling": "Hair Styling",
+      "woodChippers": "Wood Chippers",
+      "pressureWashers": "Pressure Washers",
+      "laserTools": "Laser Tools",
+      "thermomix": "Kitchen Machines",
+      "mowingRobots": "Mowing Robots"
+    },
+    "filters": {
+      "title": "Filters",
+      "price": "Price",
+      "category": "Category",
+      "apply": "Apply",
+      "reset": "Reset"
+    },
+    "sort": {
+      "title": "Sort",
+      "newest": "Newest first",
+      "priceAsc": "Price: ascending",
+      "priceDesc": "Price: descending"
+    },
+    "noResults": "No products found"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "specifications": "Technical Data",
+    "description": "Description",
+    "features": "Features",
+    "warranty": "3 Years Warranty",
+    "delivery": "Free delivery throughout Europe",
+    "original": "Original Product",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "relatedProducts": "Related Products"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue Shopping",
+    "proceedToCheckout": "Proceed to Checkout",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "tax": "VAT (19%)",
+    "shipping": "Shipping",
+    "free": "Free",
+    "remove": "Remove",
+    "update": "Update",
+    "orderSummary": "Order Summary"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "personalInfo": "Personal Information",
+    "shippingAddress": "Shipping Address",
+    "orderSummary": "Order Summary",
+    "paymentMethod": "Payment Method",
+    "placeOrder": "Place Order",
+    "invoice": "You will receive an invoice by email",
+    "fields": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "country": "Country",
+      "selectCountry": "Select country",
+      "city": "City",
+      "postalCode": "Postal Code",
+      "address": "Address",
+      "promoCode": "Promo Code"
+    },
+    "validation": {
+      "required": "Required field",
+      "email": "Invalid email address",
+      "phone": "Invalid phone number",
+      "postalCode": "Invalid postal code"
+    }
+  },
+  "orderConfirmation": {
+    "title": "Order Confirmed",
+    "thanks": "Thank you for your order!",
+    "emailSent": "A confirmation has been sent to your email address",
+    "orderNumber": "Order Number",
+    "continueShopping": "Continue Shopping"
+  },
+  "returnPolicy": {
+    "title": "Return Policy",
+    "subtitle": "Information about returns and warranty",
+    "warranty": {
+      "title": "3 Years Warranty",
+      "description": "All products have a 3-year warranty from the date of purchase"
+    },
+    "returns": {
+      "title": "Right of Return",
+      "description": "You have the right to withdraw from the purchase within 14 days of receiving the goods without giving reasons"
+    },
+    "process": {
+      "title": "Return Process",
+      "description": "To initiate a return, please contact us by email"
+    },
+    "conditions": {
+      "title": "Conditions",
+      "description": "Products must be returned in original packaging and undamaged"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 ProWerk. All rights reserved.",
+    "contactUs": "Contact Us",
+    "email": "info@prowerkgm.ch",
+    "links": "Links",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "returnPolicy": "Return Policy",
+    "freeShipping": "DHL - Free delivery throughout Europe",
+    "paymentMethods": "Payment Methods"
+  },
+  "agb": {
+    "title": "Terms and Conditions",
+    "validFrom": "Valid from: January 1, 2025",
+    "section1": {
+      "title": "§ 1 Scope of Application",
+      "content1": "These Terms and Conditions (hereinafter \"Terms\") apply to all orders placed through the ProWerk online shop (hereinafter \"Provider\").",
+      "provider": "Provider:",
+      "company": "ProWerk",
+      "email": "Email: info@prowerkgm.ch",
+      "content2": "Deviating conditions of the customer are not recognized unless the provider expressly agrees to their validity in writing."
+    },
+    "section2": {
+      "title": "§ 2 Contract Formation",
+      "content1": "The presentation of products in the online shop does not constitute a legally binding offer, but an non-binding online catalog.",
+      "content2": "By clicking the \"Place Order\" button, you place a binding order for the goods contained in the shopping cart.",
+      "content3": "The purchase contract is concluded when the provider accepts the order by order confirmation email or ships the goods."
+    },
+    "section3": {
+      "title": "§ 3 Prices and Payment Terms",
+      "content1": "All prices include statutory VAT and other price components. Prices are stated in CHF (Swiss Francs), with conversion to EUR (Euro) as guidance.",
+      "paymentMethods": "Available payment methods:",
+      "bankTransfer": "Prepayment (Bank Transfer)",
+      "creditCard": "Credit Card (VISA) - currently temporarily unavailable",
+      "paymentTerms": "For prepayment, the invoice amount must be transferred within 14 days of receiving the invoice. Goods will be shipped after payment receipt.",
+      "bankDetails": "Bank details:",
+      "iban": "IBAN: CH4683036850217684504",
+      "bic": "BIC: RDCTCHZHXXX",
+      "recipient": "Recipient: Pro Werk"
+    },
+    "section4": {
+      "title": "§ 4 Delivery and Shipping",
+      "content1": "Delivery is made to the delivery address specified by the customer throughout Europe.",
+      "deliveryTimes": "Delivery times:",
+      "germany": "Germany: 3-5 business days",
+      "austria": "Austria: 5-7 business days",
+      "switzerland": "Switzerland: 7-14 business days",
+      "eu": "Other EU countries: 7-14 business days",
+      "norway": "Norway, Iceland: 10-14 business days",
+      "shipping": "Shipping is via DHL. Shipping costs are included in the purchase price (free shipping throughout Europe).",
+      "availability": "In case of unavailability of goods, the customer will be informed immediately. In this case, the contract does not become effective."
+    },
+    "section5": {
+      "title": "§ 5 Right of Withdrawal",
+      "instruction": "Withdrawal instruction:",
+      "right": "You have the right to withdraw from this contract within fourteen days without giving reasons.",
+      "period": "The withdrawal period is fourteen days from the day on which you or a third party designated by you, who is not the carrier, took possession of the goods.",
+      "exercise": "To exercise your right of withdrawal, you must inform us (ProWerk, Email: info@prowerkgm.ch) of your decision to withdraw from this contract by means of a clear statement.",
+      "consequences": "Consequences of withdrawal:",
+      "refund": "If you withdraw from this contract, we will refund all payments we have received from you immediately and at the latest within fourteen days from the day we were informed of your decision to withdraw from this contract."
+    },
+    "section6": {
+      "title": "§ 6 Warranty and Guarantee",
+      "legal": "Statutory warranty provisions apply.",
+      "manufacturer": "Manufacturer warranty:",
+      "warranty": "All products have a 3-year manufacturer warranty from the date of purchase. The warranty conditions are governed by the respective manufacturer specifications.",
+      "coverage": "The warranty includes free repair or replacement for manufacturing defects and material defects.",
+      "exclusions": "Excluded from warranty are damages caused by:",
+      "misuse": "Improper use",
+      "wear": "Normal wear and tear",
+      "accidents": "Accidents or force majeure",
+      "repairs": "Unauthorized repair attempts"
+    },
+    "section7": {
+      "title": "§ 7 Limitation of Liability",
+      "unlimited": "The provider is liable without limitation for damages arising from injury to life, body or health based on intentional or negligent breach of duty.",
+      "limited": "For other damages, the provider is only liable for breach of essential contractual obligations, but limited in amount to damages foreseeable at the time of contract conclusion and typical for the contract.",
+      "excluded": "Liability for indirect damages and lost profits is excluded."
+    },
+    "section8": {
+      "title": "§ 8 Data Protection",
+      "processing": "The provider collects and processes personal data only within the framework of legal provisions.",
+      "details": "Detailed information on data protection can be found in our privacy policy.",
+      "usage": "Your data is used exclusively for contract processing and is not passed on to third parties."
+    },
+    "section9": {
+      "title": "§ 9 Final Provisions",
+      "law": "Applicable law:",
+      "germanLaw": "The law of the Federal Republic of Germany applies, excluding the UN Convention on Contracts for the International Sale of Goods.",
+      "jurisdiction": "Jurisdiction:",
+      "court": "The place of jurisdiction for all disputes is the seat of the provider, provided the customer is a merchant, legal entity under public law or special fund under public law.",
+      "severability": "Severability clause:",
+      "validity": "Should individual provisions of these Terms be or become invalid, the validity of the remaining provisions remains unaffected.",
+      "changes": "Changes to the Terms:",
+      "modification": "The provider reserves the right to change these Terms. Customers will be informed of changes by email."
+    },
+    "contact": {
+      "title": "Contact:",
+      "description": "If you have questions about these Terms or our service, please contact us:",
+      "email": "Email: info@prowerkgm.ch",
+      "lastUpdated": "Status: January 2025 | These Terms were last updated on January 1, 2025."
+    }
+  },
+  "trustBadges": {
+    "warranty": {
+      "title": "3 Years Warranty",
+      "description": "On all products"
+    },
+    "original": {
+      "title": "100% Original",
+      "description": "Only original goods"
+    },
+    "shipping": {
+      "title": "Free Shipping",
+      "description": "Throughout Europe"
+    },
+    "payment": {
+      "title": "Secure Payment",
+      "description": "SSL encrypted"
+    },
+    "returns": {
+      "title": "14 Days Return",
+      "description": "Without giving reasons"
+    },
+    "support": {
+      "title": "Expert Advice",
+      "description": "24/7 Support"
+    }
+  }
+}

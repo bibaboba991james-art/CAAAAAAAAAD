@@ -1,0 +1,303 @@
+{
+  "general": {
+    "appName": "ProWerk",
+    "tagline": "Premium Profesjonalne Narzędzia",
+    "loading": "Ładowanie...",
+    "error": "Wystąpił błąd",
+    "notFound": "Strona nie znaleziona",
+    "goBack": "Wstecz",
+    "goHome": "Do strony głównej"
+  },
+  "nav": {
+    "home": "Strona główna",
+    "products": "Produkty",
+    "cart": "Koszyk",
+    "returnPolicy": "Warunki zwrotu"
+  },
+  "home": {
+    "hero": {
+      "title": "Profesjonalne narzędzia dla profesjonalistów",
+      "subtitle": "Wysokiej jakości narzędzia do wymagających zastosowań",
+      "cta": "Odkryj produkty"
+    },
+    "featured": {
+      "title": "Wybrane produkty",
+      "viewAll": "Zobacz wszystkie"
+    },
+    "benefits": {
+      "title": "Dlaczego ProWerk?",
+      "quality": {
+        "title": "Premium jakość",
+        "description": "Wszystkie nasze produkty to oryginalne towary z 3-letnią gwarancją"
+      },
+      "delivery": {
+        "title": "Szybka dostawa",
+        "description": "Bezpłatna dostawa w całej Europie w ciągu 14 dni"
+      },
+      "support": {
+        "title": "Fachowe doradztwo",
+        "description": "Nasz zespół jest do Państwa dyspozycji w przypadku pytań"
+      }
+    },
+    "trustBadges": {
+      "title": "Dlaczego warto zaufać ProWerk?"
+    }
+  },
+  "products": {
+    "title": "Wszystkie produkty",
+    "categories": {
+      "all": "Wszystkie kategorie",
+      "drills": "Wiertarki",
+      "saws": "Piły",
+      "sanders": "Szlifierki",
+      "lasers": "Lasery i przyrządy pomiarowe",
+      "outdoor": "Narzędzia ogrodowe",
+      "robotVacuums": "Roboty odkurzające",
+      "powerStations": "Stacje zasilania",
+      "mowers": "Kosiarki",
+      "chainsaws": "Piły łańcuchowe",
+      "cutters": "Przecinarki",
+      "sanders": "Szlifierki",
+      "vacuums": "Odkurzacze",
+      "washingMachines": "Pralki",
+      "refrigerators": "Lodówki",
+      "fryers": "Frytkownice",
+      "solarSystems": "Systemy solarne",
+      "heatingBoilers": "Kotły grzewcze",
+      "televisions": "Telewizory",
+      "audioSystems": "Systemy audio",
+      "lawnTractors": "Traktory ogrodowe",
+      "industrialVacuums": "Odkurzacze przemysłowe",
+      "coffeeAutomats": "Ekspresy do kawy",
+      "hairStyling": "Stylizacja włosów",
+      "woodChippers": "Rozdrabniacze",
+      "pressureWashers": "Myjki ciśnieniowe",
+      "laserTools": "Narzędzia laserowe",
+      "thermomix": "Roboty kuchenne",
+      "mowingRobots": "Roboty koszące"
+    },
+    "filters": {
+      "title": "Filtry",
+      "price": "Cena",
+      "category": "Kategoria",
+      "apply": "Zastosuj",
+      "reset": "Resetuj"
+    },
+    "sort": {
+      "title": "Sortuj",
+      "newest": "Najnowsze pierwsze",
+      "priceAsc": "Cena: rosnąco",
+      "priceDesc": "Cena: malejąco"
+    },
+    "noResults": "Nie znaleziono produktów"
+  },
+  "product": {
+    "addToCart": "Dodaj do koszyka",
+    "specifications": "Dane techniczne",
+    "description": "Opis",
+    "features": "Właściwości",
+    "warranty": "3 lata gwarancji",
+    "delivery": "Bezpłatna dostawa w całej Europie",
+    "original": "Oryginalny produkt",
+    "inStock": "Na stanie",
+    "outOfStock": "Brak na stanie",
+    "relatedProducts": "Podobne produkty"
+  },
+  "cart": {
+    "title": "Koszyk",
+    "empty": "Twój koszyk jest pusty",
+    "continueShopping": "Kontynuuj zakupy",
+    "proceedToCheckout": "Przejdź do kasy",
+    "total": "Suma całkowita",
+    "subtotal": "Suma częściowa",
+    "tax": "VAT (19%)",
+    "shipping": "Wysyłka",
+    "free": "Bezpłatna",
+    "remove": "Usuń",
+    "update": "Aktualizuj",
+    "orderSummary": "Podsumowanie zamówienia"
+  },
+  "checkout": {
+    "title": "Kasa",
+    "personalInfo": "Informacje osobiste",
+    "shippingAddress": "Adres dostawy",
+    "orderSummary": "Podsumowanie zamówienia",
+    "paymentMethod": "Metoda płatności",
+    "placeOrder": "Złóż zamówienie",
+    "invoice": "Otrzymasz fakturę e-mailem",
+    "fields": {
+      "firstName": "Imię",
+      "lastName": "Nazwisko",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "country": "Kraj",
+      "selectCountry": "Wybierz kraj",
+      "city": "Miasto",
+      "postalCode": "Kod pocztowy",
+      "address": "Adres",
+      "promoCode": "Kod promocyjny"
+    },
+    "validation": {
+      "required": "Pole wymagane",
+      "email": "Nieprawidłowy adres e-mail",
+      "phone": "Nieprawidłowy numer telefonu",
+      "postalCode": "Nieprawidłowy kod pocztowy"
+    }
+  },
+  "orderConfirmation": {
+    "title": "Zamówienie potwierdzone",
+    "thanks": "Dziękujemy za zamówienie!",
+    "emailSent": "Potwierdzenie zostało wysłane na Twój adres e-mail",
+    "orderNumber": "Numer zamówienia",
+    "continueShopping": "Kontynuuj zakupy"
+  },
+  "returnPolicy": {
+    "title": "Warunki zwrotu",
+    "subtitle": "Informacje o zwrocie i gwarancji",
+    "warranty": {
+      "title": "3 lata gwarancji",
+      "description": "Wszystkie produkty mają gwarancję 3 lata od daty zakupu"
+    },
+    "returns": {
+      "title": "Prawo do zwrotu",
+      "description": "Masz prawo do odstąpienia od umowy w ciągu 14 dni od otrzymania towaru bez podania przyczyny"
+    },
+    "process": {
+      "title": "Proces zwrotu",
+      "description": "Aby zainicjować zwrot, skontaktuj się z nami e-mailem"
+    },
+    "conditions": {
+      "title": "Warunki",
+      "description": "Produkty muszą być zwrócone w oryginalnym opakowaniu i nieuszkodzone"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 ProWerk. Wszelkie prawa zastrzeżone.",
+    "contactUs": "Skontaktuj się z nami",
+    "email": "info@prowerkgm.ch",
+    "links": "Linki",
+    "terms": "Regulamin",
+    "privacy": "Prywatność",
+    "returnPolicy": "Warunki zwrotu",
+    "freeShipping": "DHL - Bezpłatna dostawa w całej Europie",
+    "paymentMethods": "Metody płatności"
+  },
+  "agb": {
+    "title": "Ogólne Warunki Handlowe (OWH)",
+    "validFrom": "Obowiązuje od: 1 stycznia 2025",
+    "section1": {
+      "title": "§ 1 Zakres obowiązywania",
+      "content1": "Niniejsze Ogólne Warunki Handlowe (dalej \"OWH\") obowiązują dla wszystkich zamówień złożonych przez sklep internetowy ProWerk (dalej \"Dostawca\").",
+      "provider": "Dostawca:",
+      "company": "ProWerk",
+      "email": "E-mail: info@prowerkgm.ch",
+      "content2": "Odmienne warunki klienta nie są uznawane, chyba że dostawca wyraźnie zgodzi się na ich obowiązywanie na piśmie."
+    },
+    "section2": {
+      "title": "§ 2 Zawarcie umowy",
+      "content1": "Prezentacja produktów w sklepie internetowym nie stanowi prawnie wiążącej oferty, lecz niewiążący katalog online.",
+      "content2": "Klikając przycisk \"Złóż zamówienie\" składasz wiążące zamówienie na towary zawarte w koszyku.",
+      "content3": "Umowa kupna zostaje zawarta, gdy dostawca przyjmie zamówienie poprzez potwierdzenie zamówienia e-mailem lub wyśle towar."
+    },
+    "section3": {
+      "title": "§ 3 Ceny i warunki płatności",
+      "content1": "Wszystkie ceny zawierają ustawowy podatek VAT i inne składniki ceny. Ceny podawane są w CHF (frankach szwajcarskich), z przeliczeniem na EUR (euro) jako orientacja.",
+      "paymentMethods": "Dostępne metody płatności:",
+      "bankTransfer": "Przedpłata (przelew bankowy)",
+      "creditCard": "Karta kredytowa (VISA) - obecnie tymczasowo niedostępna",
+      "paymentTerms": "W przypadku przedpłaty kwota faktury musi zostać przelana w ciągu 14 dni od otrzymania faktury. Towar zostanie wysłany po otrzymaniu płatności.",
+      "bankDetails": "Dane bankowe:",
+      "iban": "IBAN: CH4683036850217684504",
+      "bic": "BIC: RDCTCHZHXXX",
+      "recipient": "Odbiorca: Pro Werk"
+    },
+    "section4": {
+      "title": "§ 4 Dostawa i wysyłka",
+      "content1": "Dostawa następuje na adres dostawy podany przez klienta w całej Europie.",
+      "deliveryTimes": "Czasy dostawy:",
+      "germany": "Niemcy: 3-5 dni roboczych",
+      "austria": "Austria: 5-7 dni roboczych",
+      "switzerland": "Szwajcaria: 7-14 dni roboczych",
+      "eu": "Inne kraje UE: 7-14 dni roboczych",
+      "norway": "Norwegia, Islandia: 10-14 dni roboczych",
+      "shipping": "Wysyłka odbywa się przez DHL. Koszty wysyłki są wliczone w cenę zakupu (bezpłatna dostawa w całej Europie).",
+      "availability": "W przypadku niedostępności towaru klient zostanie niezwłocznie poinformowany. W takim przypadku umowa nie staje się skuteczna."
+    },
+    "section5": {
+      "title": "§ 5 Prawo odstąpienia",
+      "instruction": "Pouczenie o odstąpieniu:",
+      "right": "Masz prawo odstąpić od tej umowy w ciągu czternastu dni bez podania przyczyny.",
+      "period": "Okres odstąpienia wynosi czternaście dni od dnia, w którym Ty lub wskazana przez Ciebie osoba trzecia, która nie jest przewoźnikiem, weszła w posiadanie towaru.",
+      "exercise": "Aby skorzystać z prawa odstąpienia, musisz nas poinformować (ProWerk, E-mail: info@prowerkgm.ch) o swojej decyzji o odstąpieniu od tej umowy w drodze jednoznacznego oświadczenia.",
+      "consequences": "Skutki odstąpienia:",
+      "refund": "Jeżeli odstąpisz od tej umowy, zwrócimy Ci wszystkie otrzymane od Ciebie płatności niezwłocznie, a w każdym przypadku nie później niż w terminie 14 dni od dnia, w którym zostaliśmy poinformowani o Twojej decyzji o odstąpieniu od umowy."
+    },
+    "section6": {
+      "title": "§ 6 Gwarancja i rękojmia",
+      "legal": "Obowiązują ustawowe przepisy dotyczące rękojmi.",
+      "manufacturer": "Gwarancja producenta:",
+      "warranty": "Wszystkie produkty objęte są 3-letnią gwarancją producenta od daty zakupu. Warunki gwarancji określają odpowiednie specyfikacje producenta.",
+      "coverage": "Gwarancja obejmuje bezpłatną naprawę lub wymianę w przypadku wad produkcyjnych i defektów materiałowych.",
+      "exclusions": "Z gwarancji wyłączone są uszkodzenia spowodowane:",
+      "misuse": "Niewłaściwym użytkowaniem",
+      "wear": "Normalnym zużyciem",
+      "accidents": "Wypadkami lub siłą wyższą",
+      "repairs": "Samowolnymi próbami naprawy"
+    },
+    "section7": {
+      "title": "§ 7 Ograniczenie odpowiedzialności",
+      "unlimited": "Dostawca ponosi nieograniczoną odpowiedzialność za szkody wynikające z naruszenia życia, ciała lub zdrowia, które opierają się na umyślnym lub niedbałym naruszeniu obowiązków.",
+      "limited": "Za inne szkody dostawca odpowiada tylko w przypadku naruszenia istotnych obowiązków umownych, jednak wysokość odpowiedzialności ograniczona jest do szkód przewidywalnych w momencie zawarcia umowy i typowych dla umowy.",
+      "excluded": "Odpowiedzialność za szkody pośrednie i utracone korzyści jest wyłączona."
+    },
+    "section8": {
+      "title": "§ 8 Ochrona danych",
+      "processing": "Dostawca zbiera i przetwarza dane osobowe tylko w ramach przepisów prawnych.",
+      "details": "Szczegółowe informacje o ochronie danych znajdziesz w naszej polityce prywatności.",
+      "usage": "Twoje dane są używane wyłącznie do realizacji umowy i nie są przekazywane osobom trzecim."
+    },
+    "section9": {
+      "title": "§ 9 Postanowienia końcowe",
+      "law": "Prawo właściwe:",
+      "germanLaw": "Obowiązuje prawo Republiki Federalnej Niemiec z wyłączeniem Konwencji Wiedeńskiej o sprzedaży.",
+      "jurisdiction": "Właściwość sądu:",
+      "court": "Właściwym sądem dla wszystkich sporów jest siedziba dostawcy, o ile klient jest przedsiębiorcą, osobą prawną prawa publicznego lub publicznym majątkiem specjalnym.",
+      "severability": "Klauzula rozłączności:",
+      "validity": "Jeśli poszczególne postanowienia niniejszych OWH są lub staną się nieskuteczne, skuteczność pozostałych postanowień pozostaje nienaruszona.",
+      "changes": "Zmiany OWH:",
+      "modification": "Dostawca zastrzega sobie prawo do zmiany niniejszych OWH. Klienci będą informowani o zmianach e-mailem."
+    },
+    "contact": {
+      "title": "Kontakt:",
+      "description": "W przypadku pytań dotyczących niniejszych OWH lub naszych usług, skontaktuj się z nami:",
+      "email": "E-mail: info@prowerkgm.ch",
+      "lastUpdated": "Stan: styczeń 2025 | Niniejsze OWH zostały ostatnio zaktualizowane 1 stycznia 2025."
+    }
+  },
+  "trustBadges": {
+    "warranty": {
+      "title": "3 lata gwarancji",
+      "description": "Na wszystkie produkty"
+    },
+    "original": {
+      "title": "100% Oryginał",
+      "description": "Tylko oryginalne towary"
+    },
+    "shipping": {
+      "title": "Bezpłatna dostawa",
+      "description": "W całej Europie"
+    },
+    "payment": {
+      "title": "Bezpieczna płatność",
+      "description": "Szyfrowanie SSL"
+    },
+    "returns": {
+      "title": "14 dni na zwrot",
+      "description": "Bez podania przyczyny"
+    },
+    "support": {
+      "title": "Fachowe doradztwo",
+      "description": "Wsparcie 24/7"
+    }
+  }
+}

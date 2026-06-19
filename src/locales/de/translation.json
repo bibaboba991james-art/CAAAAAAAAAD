@@ -1,0 +1,302 @@
+{
+  "general": {
+    "appName": "ProWerk",
+    "tagline": "Premium Professionelle Werkzeuge",
+    "loading": "Wird geladen...",
+    "error": "Ein Fehler ist aufgetreten",
+    "notFound": "Seite nicht gefunden",
+    "goBack": "Zurück",
+    "goHome": "Zur Startseite"
+  },
+  "nav": {
+    "home": "Startseite",
+    "products": "Produkte",
+    "cart": "Warenkorb",
+    "returnPolicy": "Rückgabebedingungen"
+  },
+  "home": {
+    "hero": {
+      "title": "Professionelle Werkzeuge für Profis",
+      "subtitle": "Hochwertige Werkzeuge für anspruchsvolle Anwendungen",
+      "cta": "Produkte entdecken"
+    },
+    "featured": {
+      "title": "Ausgewählte Produkte",
+      "viewAll": "Alle anzeigen"
+    },
+    "benefits": {
+      "title": "Warum ProWerk?",
+      "quality": {
+        "title": "Premium Qualität",
+        "description": "Alle unsere Produkte sind Originalware mit 3 Jahren Garantie"
+      },
+      "delivery": {
+        "title": "Schnelle Lieferung",
+        "description": "Kostenlose Lieferung in ganz Europa innerhalb von 14 Tagen"
+      },
+      "support": {
+        "title": "Fachkundige Beratung",
+        "description": "Unser Team steht Ihnen bei Fragen zur Verfügung"
+      }
+    },
+    "trustBadges": {
+      "title": "Warum ProWerk vertrauen?"
+    }
+  },
+  "products": {
+    "title": "Alle Produkte",
+    "categories": {
+      "all": "Alle Kategorien",
+      "drills": "Bohrmaschinen",
+      "saws": "Sägen",
+      "sanders": "Schleifmaschinen",
+      "lasers": "Laser & Messgeräte",
+      "outdoor": "Gartengeräte",
+      "robotVacuums": "Saugroboter",
+      "powerStations": "Powerstationen",
+      "mowers": "Rasenmäher",
+      "chainsaws": "Kettensägen",
+      "cutters": "Trennschleifer",
+      "sanders": "Schleifmaschinen",
+      "vacuums": "Staubsauger",
+      "washingMachines": "Waschmaschinen",
+      "refrigerators": "Kühlschränke",
+      "fryers": "Fritteusen",
+      "solarSystems": "Solarsysteme",
+      "heatingBoilers": "Heizkessel",
+      "televisions": "Fernseher",
+      "audioSystems": "Audiosysteme",
+      "lawnTractors": "Rasentraktoren",
+      "industrialVacuums": "Industriesauger",
+      "coffeeAutomats": "Kaffeevollautomaten",
+      "hairStyling": "Haarstyling",
+      "woodChippers": "Häcksler",
+      "pressureWashers": "Hochdruckreiniger",
+      "laserTools": "Lasermessgeräte",
+      "thermomix": "Küchenmaschinen",
+      "mowingRobots": "Mähroboter"
+    },
+    "filters": {
+      "title": "Filter",
+      "price": "Preis",
+      "category": "Kategorie",
+      "apply": "Anwenden",
+      "reset": "Zurücksetzen"
+    },
+    "sort": {
+      "title": "Sortieren",
+      "newest": "Neueste zuerst",
+      "priceAsc": "Preis: aufsteigend",
+      "priceDesc": "Preis: absteigend"
+    },
+    "noResults": "Keine Produkte gefunden"
+  },
+  "product": {
+    "addToCart": "In den Warenkorb",
+    "specifications": "Technische Daten",
+    "description": "Beschreibung",
+    "features": "Eigenschaften",
+    "warranty": "3 Jahre Garantie",
+    "delivery": "Kostenlose Lieferung in ganz Europa",
+    "original": "Original Produkt",
+    "inStock": "Auf Lager",
+    "outOfStock": "Nicht auf Lager",
+    "relatedProducts": "Ähnliche Produkte"
+  },
+  "cart": {
+    "title": "Warenkorb",
+    "empty": "Ihr Warenkorb ist leer",
+    "continueShopping": "Weiter einkaufen",
+    "proceedToCheckout": "Zur Kasse",
+    "total": "Gesamtsumme",
+    "subtotal": "Zwischensumme",
+    "tax": "MwSt. (19%)",
+    "shipping": "Versand",
+    "free": "Kostenlos",
+    "remove": "Entfernen",
+    "update": "Aktualisieren"
+  },
+  "checkout": {
+    "title": "Zur Kasse",
+    "personalInfo": "Persönliche Informationen",
+    "shippingAddress": "Lieferadresse",
+    "orderSummary": "Bestellübersicht",
+    "paymentMethod": "Zahlungsmethode",
+    "placeOrder": "Bestellung aufgeben",
+    "invoice": "Sie erhalten eine Rechnung per E-Mail",
+    "fields": {
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "country": "Land",
+      "selectCountry": "Land auswählen",
+      "city": "Stadt",
+      "postalCode": "Postleitzahl",
+      "address": "Adresse",
+      "promoCode": "Gutscheincode"
+    },
+    "validation": {
+      "required": "Pflichtfeld",
+      "email": "Ungültige E-Mail-Adresse",
+      "phone": "Ungültige Telefonnummer",
+      "postalCode": "Ungültige Postleitzahl"
+    }
+  },
+  "orderConfirmation": {
+    "title": "Bestellung bestätigt",
+    "thanks": "Vielen Dank für Ihre Bestellung!",
+    "emailSent": "Eine Bestätigung wurde an Ihre E-Mail-Adresse gesendet",
+    "orderNumber": "Bestellnummer",
+    "continueShopping": "Weiter einkaufen"
+  },
+  "returnPolicy": {
+    "title": "Rückgabebedingungen",
+    "subtitle": "Informationen zu Rückgabe und Garantie",
+    "warranty": {
+      "title": "3 Jahre Garantie",
+      "description": "Alle Produkte haben eine Garantie von 3 Jahren ab Kaufdatum"
+    },
+    "returns": {
+      "title": "Rückgaberecht",
+      "description": "Sie haben das Recht, den Kauf innerhalb von 14 Tagen nach Erhalt der Ware ohne Angabe von Gründen zu widerrufen"
+    },
+    "process": {
+      "title": "Rückgabeprozess",
+      "description": "Um eine Rückgabe zu initiieren, kontaktieren Sie uns bitte per E-Mail"
+    },
+    "conditions": {
+      "title": "Bedingungen",
+      "description": "Produkte müssen in Originalverpackung und unbeschädigt zurückgegeben werden"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 ProWerk. Alle Rechte vorbehalten.",
+    "contactUs": "Kontaktieren Sie uns",
+    "email": "info@prowerkgm.ch",
+    "links": "Links",
+    "terms": "AGB",
+    "privacy": "Datenschutz",
+    "returnPolicy": "Rückgabebedingungen",
+    "freeShipping": "DHL - Kostenlose Lieferung in ganz Europa",
+    "paymentMethods": "Zahlungsmethoden"
+  },
+  "agb": {
+    "title": "Allgemeine Geschäftsbedingungen (AGB)",
+    "validFrom": "Gültig ab: 1. Januar 2025",
+    "section1": {
+      "title": "§ 1 Geltungsbereich",
+      "content1": "Diese Allgemeinen Geschäftsbedingungen (nachfolgend \"AGB\") gelten für alle Bestellungen über den Online-Shop von ProWerk (nachfolgend \"Anbieter\").",
+      "provider": "Anbieter:",
+      "company": "ProWerk",
+      "email": "E-Mail: info@prowerkgm.ch",
+      "content2": "Abweichende Bedingungen des Kunden werden nicht anerkannt, es sei denn, der Anbieter stimmt ihrer Geltung ausdrücklich schriftlich zu."
+    },
+    "section2": {
+      "title": "§ 2 Vertragsschluss",
+      "content1": "Die Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern einen unverbindlichen Online-Katalog dar.",
+      "content2": "Durch Anklicken des Buttons \"Bestellung aufgeben\" geben Sie eine verbindliche Bestellung der im Warenkorb enthaltenen Waren ab.",
+      "content3": "Der Kaufvertrag kommt zustande, wenn der Anbieter die Bestellung durch eine Auftragsbestätigung per E-Mail annimmt oder die Ware versendet."
+    },
+    "section3": {
+      "title": "§ 3 Preise und Zahlungsbedingungen",
+      "content1": "Alle Preise verstehen sich inklusive der gesetzlichen Mehrwertsteuer und sonstiger Preisbestandteile. Preise werden in CHF (Schweizer Franken) angegeben, mit Umrechnung in EUR (Euro) als Orientierungshilfe.",
+      "paymentMethods": "Verfügbare Zahlungsarten:",
+      "bankTransfer": "Vorkasse (Banküberweisung)",
+      "creditCard": "Kreditkarte (VISA) - derzeit temporär nicht verfügbar",
+      "paymentTerms": "Bei Vorkasse ist der Rechnungsbetrag innerhalb von 14 Tagen nach Erhalt der Rechnung zu überweisen. Die Ware wird nach Zahlungseingang versendet.",
+      "bankDetails": "Bankverbindung:",
+      "iban": "IBAN: CH4683036850217684504",
+      "bic": "BIC: RDCTCHZHXXX",
+      "recipient": "Empfänger: Pro Werk"
+    },
+    "section4": {
+      "title": "§ 4 Lieferung und Versand",
+      "content1": "Die Lieferung erfolgt an die vom Kunden angegebene Lieferadresse innerhalb von ganz Europa.",
+      "deliveryTimes": "Lieferzeiten:",
+      "germany": "Deutschland: 3-5 Werktage",
+      "austria": "Österreich: 5-7 Werktage",
+      "switzerland": "Schweiz: 7-14 Werktage",
+      "eu": "Andere EU-Länder: 7-14 Werktage",
+      "norway": "Norwegen, Island: 10-14 Werktage",
+      "shipping": "Der Versand erfolgt über DHL. Die Versandkosten sind im Kaufpreis enthalten (kostenloser Versand in ganz Europa).",
+      "availability": "Bei Nichtverfügbarkeit einer Ware wird der Kunde unverzüglich informiert. In diesem Fall wird der Vertrag nicht wirksam."
+    },
+    "section5": {
+      "title": "§ 5 Widerrufsrecht",
+      "instruction": "Widerrufsbelehrung:",
+      "right": "Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen.",
+      "period": "Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die Waren in Besitz genommen haben bzw. hat.",
+      "exercise": "Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (ProWerk, E-Mail: info@prowerkgm.ch) mittels einer eindeutigen Erklärung über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren.",
+      "consequences": "Folgen des Widerrufs:",
+      "refund": "Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist."
+    },
+    "section6": {
+      "title": "§ 6 Gewährleistung und Garantie",
+      "legal": "Es gelten die gesetzlichen Gewährleistungsbestimmungen.",
+      "manufacturer": "Herstellergarantie:",
+      "warranty": "Alle Produkte verfügen über eine 3-jährige Herstellergarantie ab Kaufdatum. Die Garantiebedingungen richten sich nach den jeweiligen Herstellerangaben.",
+      "coverage": "Die Garantie umfasst die kostenlose Reparatur oder den Austausch bei Herstellungsfehlern und Materialdefekten.",
+      "exclusions": "Von der Garantie ausgeschlossen sind Schäden durch:",
+      "misuse": "Unsachgemäße Verwendung",
+      "wear": "Normale Abnutzung",
+      "accidents": "Unfälle oder höhere Gewalt",
+      "repairs": "Eigenmächtige Reparaturversuche"
+    },
+    "section7": {
+      "title": "§ 7 Haftungsbeschränkung",
+      "unlimited": "Der Anbieter haftet unbeschränkt für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, die auf einer vorsätzlichen oder fahrlässigen Pflichtverletzung beruhen.",
+      "limited": "Für sonstige Schäden haftet der Anbieter nur bei Verletzung wesentlicher Vertragspflichten, jedoch der Höhe nach begrenzt auf die bei Vertragsschluss vorhersehbaren und vertragstypischen Schäden.",
+      "excluded": "Die Haftung für mittelbare Schäden und entgangenen Gewinn ist ausgeschlossen."
+    },
+    "section8": {
+      "title": "§ 8 Datenschutz",
+      "processing": "Der Anbieter erhebt und verarbeitet personenbezogene Daten nur im Rahmen der gesetzlichen Bestimmungen.",
+      "details": "Detaillierte Informationen zum Datenschutz finden Sie in unserer Datenschutzerklärung.",
+      "usage": "Ihre Daten werden ausschließlich zur Vertragsabwicklung verwendet und nicht an Dritte weitergegeben."
+    },
+    "section9": {
+      "title": "§ 9 Schlussbestimmungen",
+      "law": "Anwendbares Recht:",
+      "germanLaw": "Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.",
+      "jurisdiction": "Gerichtsstand:",
+      "court": "Gerichtsstand für alle Streitigkeiten ist der Sitz des Anbieters, sofern der Kunde Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist.",
+      "severability": "Salvatorische Klausel:",
+      "validity": "Sollten einzelne Bestimmungen dieser AGB unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.",
+      "changes": "Änderungen der AGB:",
+      "modification": "Der Anbieter behält sich vor, diese AGB zu ändern. Kunden werden über Änderungen per E-Mail informiert."
+    },
+    "contact": {
+      "title": "Kontakt:",
+      "description": "Bei Fragen zu diesen AGB oder unserem Service kontaktieren Sie uns gerne:",
+      "email": "E-Mail: info@prowerkgm.ch",
+      "lastUpdated": "Stand: Januar 2025 | Diese AGB wurden zuletzt am 1. Januar 2025 aktualisiert."
+    }
+  },
+  "trustBadges": {
+    "warranty": {
+      "title": "3 Jahre Garantie",
+      "description": "Auf alle Produkte"
+    },
+    "original": {
+      "title": "100% Original",
+      "description": "Nur Originalware"
+    },
+    "shipping": {
+      "title": "Kostenloser Versand",
+      "description": "In ganz Europa"
+    },
+    "payment": {
+      "title": "Sichere Zahlung",
+      "description": "SSL verschlüsselt"
+    },
+    "returns": {
+      "title": "14 Tage Rückgabe",
+      "description": "Ohne Angabe von Gründen"
+    },
+    "support": {
+      "title": "Fachkundige Beratung",
+      "description": "24/7 Support"
+    }
+  }
+}

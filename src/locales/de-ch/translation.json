@@ -1,0 +1,303 @@
+{
+  "general": {
+    "appName": "ProWerk",
+    "tagline": "Premium Professionelli Wärchzüüg",
+    "loading": "Wird glade...",
+    "error": "En Fähler isch ufträte",
+    "notFound": "Siite nöd gfunde",
+    "goBack": "Zrugg",
+    "goHome": "Zur Startsyte"
+  },
+  "nav": {
+    "home": "Startsyte",
+    "products": "Produkt",
+    "cart": "Warechorb",
+    "returnPolicy": "Rückgabebedingige"
+  },
+  "home": {
+    "hero": {
+      "title": "Professionelli Wärchzüüg für Profis",
+      "subtitle": "Hochwärtigi Wärchzüüg für aspruchsvolli Awändig",
+      "cta": "Produkt entdecke"
+    },
+    "featured": {
+      "title": "Usgwählti Produkt",
+      "viewAll": "Alli azeige"
+    },
+    "benefits": {
+      "title": "Warum ProWerk?",
+      "quality": {
+        "title": "Premium Qualität",
+        "description": "Alli üseri Produkt sind Originalware mit 3 Jahr Garantie"
+      },
+      "delivery": {
+        "title": "Schnälli Lieferig",
+        "description": "Kostelosi Lieferig i ganz Europa innerhalb vo 14 Täg"
+      },
+      "support": {
+        "title": "Fachkundigi Beratig",
+        "description": "Üses Team stoht Ihne bi Frage zur Verfüegig"
+      }
+    },
+    "trustBadges": {
+      "title": "Warum ProWerk vertraue?"
+    }
+  },
+  "products": {
+    "title": "Alli Produkt",
+    "categories": {
+      "all": "Alli Kategorie",
+      "drills": "Bohrmaschine",
+      "saws": "Säge",
+      "sanders": "Schliifmaschine",
+      "lasers": "Laser & Mässgeröt",
+      "outdoor": "Gartegreröt",
+      "robotVacuums": "Sugroboter",
+      "powerStations": "Powerstationen",
+      "mowers": "Rasemäher",
+      "chainsaws": "Chettesäge",
+      "cutters": "Trennschliifer",
+      "sanders": "Schliifmaschine",
+      "vacuums": "Staubsuger",
+      "washingMachines": "Waschmaschine",
+      "refrigerators": "Chüelschränk",
+      "fryers": "Frittüse",
+      "solarSystems": "Solarsystem",
+      "heatingBoilers": "Heizchessel",
+      "televisions": "Fernseher",
+      "audioSystems": "Audiosystem",
+      "lawnTractors": "Rasetraktore",
+      "industrialVacuums": "Industriisuger",
+      "coffeeAutomats": "Kaffeevollautomate",
+      "hairStyling": "Haarstyling",
+      "woodChippers": "Häcksler",
+      "pressureWashers": "Hochdruckreiniger",
+      "laserTools": "Lasermässgeröt",
+      "thermomix": "Chuchemaschine",
+      "mowingRobots": "Mähroboter"
+    },
+    "filters": {
+      "title": "Filter",
+      "price": "Priis",
+      "category": "Kategorie",
+      "apply": "Awände",
+      "reset": "Zruggsetze"
+    },
+    "sort": {
+      "title": "Sortiere",
+      "newest": "Nöischti zerscht",
+      "priceAsc": "Priis: ufstiigend",
+      "priceDesc": "Priis: abstiigend"
+    },
+    "noResults": "Kei Produkt gfunde"
+  },
+  "product": {
+    "addToCart": "I de Warechorb",
+    "specifications": "Technischi Date",
+    "description": "Beschriibig",
+    "features": "Eigeschafte",
+    "warranty": "3 Jahr Garantie",
+    "delivery": "Kostelosi Lieferig i ganz Europa",
+    "original": "Original Produkt",
+    "inStock": "Uf Lager",
+    "outOfStock": "Nöd uf Lager",
+    "relatedProducts": "Ähnlichi Produkt"
+  },
+  "cart": {
+    "title": "Warechorb",
+    "empty": "Ihre Warechorb isch läär",
+    "continueShopping": "Wyter iichaufe",
+    "proceedToCheckout": "Zur Kasse",
+    "total": "Gsamtsumme",
+    "subtotal": "Zwüschesumme",
+    "tax": "MwSt. (19%)",
+    "shipping": "Versand",
+    "free": "Kosteloos",
+    "remove": "Entfärne",
+    "update": "Aktualisiere",
+    "orderSummary": "Bestellübersicht"
+  },
+  "checkout": {
+    "title": "Zur Kasse",
+    "personalInfo": "Persönlichi Informatione",
+    "shippingAddress": "Lieferadrässe",
+    "orderSummary": "Bestellübersicht",
+    "paymentMethod": "Zahligsmethod",
+    "placeOrder": "Bestellig ufgäh",
+    "invoice": "Sie überchömed e Rechnig per E-Mail",
+    "fields": {
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "country": "Land",
+      "selectCountry": "Land uswähle",
+      "city": "Stadt",
+      "postalCode": "Postleitzahl",
+      "address": "Adrässe",
+      "promoCode": "Gutschiicode"
+    },
+    "validation": {
+      "required": "Pflichtfäld",
+      "email": "Ungültigi E-Mail-Adrässe",
+      "phone": "Ungültigi Telefonnummer",
+      "postalCode": "Ungültigi Postleitzahl"
+    }
+  },
+  "orderConfirmation": {
+    "title": "Bestellig bestätigt",
+    "thanks": "Vilä Dank für Ihri Bestellig!",
+    "emailSent": "E Bestätigig isch a Ihri E-Mail-Adrässe gschickt worde",
+    "orderNumber": "Bestellnummer",
+    "continueShopping": "Wyter iichaufe"
+  },
+  "returnPolicy": {
+    "title": "Rückgabebedingige",
+    "subtitle": "Informatione zu Rückgab und Garantie",
+    "warranty": {
+      "title": "3 Jahr Garantie",
+      "description": "Alli Produkt händ e Garantie vo 3 Jahr ab Chaufdatum"
+    },
+    "returns": {
+      "title": "Rückgabrächt",
+      "description": "Sie händ s Rächt, de Chauf innerhalb vo 14 Täg nach Erhalt vo de Ware ohni Agab vo Gründ z widerruefe"
+    },
+    "process": {
+      "title": "Rückgabprozäss",
+      "description": "Um e Rückgab z initiiere, kontaktiere Sie üs bitte per E-Mail"
+    },
+    "conditions": {
+      "title": "Bedingige",
+      "description": "Produkt müend i Originalverpackig und unbeschädigt zruggäh wärde"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 ProWerk. Alli Rächt vorbehalte.",
+    "contactUs": "Kontaktiere Sie üs",
+    "email": "info@prowerkgm.ch",
+    "links": "Links",
+    "terms": "AGB",
+    "privacy": "Dateschutz",
+    "returnPolicy": "Rückgabebedingige",
+    "freeShipping": "DHL - Chostelosi Lieferig i ganz Europa",
+    "paymentMethods": "Zahligsmethod"
+  },
+  "agb": {
+    "title": "Allgemeini Gschäftsbedingige (AGB)",
+    "validFrom": "Gültig ab: 1. Januar 2025",
+    "section1": {
+      "title": "§ 1 Geltigsbereich",
+      "content1": "Desi Allgemeini Gschäftsbedingige (nachfolgend \"AGB\") gälted für alli Bestellige über de Online-Shop vo ProWerk (nachfolgend \"Abieter\").",
+      "provider": "Abieter:",
+      "company": "ProWerk",
+      "email": "E-Mail: info@prowerkgm.ch",
+      "content2": "Abwychendi Bedingige vom Kunde wärded nöd anerkannt, es sei denn, de Abieter stimmt ihrere Geltig usdrücklich schriftlich zue."
+    },
+    "section2": {
+      "title": "§ 2 Vertragsschluss",
+      "content1": "D Darstellig vo de Produkt im Online-Shop stellt kei rächtlich bindends Agebot dar, sondern en unverbindliche Online-Katalog.",
+      "content2": "Durch Aklicke vom Button \"Bestellig ufgäh\" gänd Sie e verbindlichi Bestellig vo de im Warechorb enthaltene Ware ab.",
+      "content3": "De Chaufvertrag chunnt zstand, wenn de Abieter d Bestellig durch e Uftragsbestätigig per E-Mail animmmt oder d Ware verschickt."
+    },
+    "section3": {
+      "title": "§ 3 Priise und Zahligsbedinige",
+      "content1": "Alli Priise verstönd sich inklusive vo de gsetzliche Mehrwärtsteuer und sonstigi Priisbestandteil. Priise wärded i CHF (Schwizer Franke) agäh, mit Umrechnig i EUR (Euro) als Orientierigshilf.",
+      "paymentMethods": "Verfüegbari Zahligsarte:",
+      "bankTransfer": "Vorkasse (Banküberweisig)",
+      "creditCard": "Kreditcharte (VISA) - derzit temporär nöd verfüegbar",
+      "paymentTerms": "Bi Vorkasse isch de Rechnigsbetrag innerhalb vo 14 Täg nach Erhalt vo de Rechnig z überwise. D Ware wird nach Zahligsiigang verschickt.",
+      "bankDetails": "Bankverbindig:",
+      "iban": "IBAN: CH4683036850217684504",
+      "bic": "BIC: RDCTCHZHXXX",
+      "recipient": "Empfänger: Pro Werk"
+    },
+    "section4": {
+      "title": "§ 4 Lieferig und Versand",
+      "content1": "D Lieferig erfolgt a d vom Kunde agäbeni Lieferadrässe innerhalb vo ganz Europa.",
+      "deliveryTimes": "Lieferzite:",
+      "germany": "Dütschland: 3-5 Wärchtäg",
+      "austria": "Österrich: 5-7 Wärchtäg",
+      "switzerland": "Schwiz: 7-14 Wärchtäg",
+      "eu": "Anderi EU-Länder: 7-14 Wärchtäg",
+      "norway": "Norwäge, Island: 10-14 Wärchtäg",
+      "shipping": "De Versand erfolgt über DHL. D Versandchoste sind im Chaufpriis enthalte (chostelosi Lieferig i ganz Europa).",
+      "availability": "Bi Nöd-Verfüegbarkeit vonere Ware wird de Kunde unverzüglich informiert. I dem Fall wird de Vertrag nöd wirksam."
+    },
+    "section5": {
+      "title": "§ 5 Widerrufsrächt",
+      "instruction": "Widerrufsbelärig:",
+      "right": "Sie händ s Rächt, bine vierzäh Täg ohni Agab vo Gründ dese Vertrag z widerruefe.",
+      "period": "D Widerrufsfrist beträgt vierzäh Täg ab em Tag, a dem Sie oder en vo Ihne benannte Dritti, wo nöd de Beförderer isch, d Ware i Besitz gnoh händ bzw. het.",
+      "exercise": "Um Ihr Widerrufsrächt uszüebe, müend Sie üs (ProWerk, E-Mail: info@prowerkgm.ch) mittels ere iidütige Erklärig über Ihre Entschluss, dese Vertrag z widerruefe, informiere.",
+      "consequences": "Folge vom Widerruf:",
+      "refund": "Wenn Sie dese Vertrag widerruefed, händ mir Ihne alli Zahlige, wo mir vo Ihne übercho händ, unverzüglich und spätestens bine vierzäh Täg ab em Tag zruggzahle, a dem d Mitteilig über Ihre Widerruf vo dem Vertrag bi üs iigange isch."
+    },
+    "section6": {
+      "title": "§ 6 Gwährleistig und Garantie",
+      "legal": "Es gälted d gsetzliche Gwährleistigsbestimmige.",
+      "manufacturer": "Härstellergarantie:",
+      "warranty": "Alli Produkt verfüeged über e 3-jährigi Härstellergarantie ab Chaufdatum. D Garantiebedingige richted sich nach de jeweilige Härstelleragabe.",
+      "coverage": "D Garantie umfasst d chostelosi Reparatur oder de Uustausch bi Härstelligsfähler und Materialdefekt.",
+      "exclusions": "Vo de Garantie usgschlosse sind Schäde durch:",
+      "misuse": "Unsachgemäßi Verwendig",
+      "wear": "Normali Abnutzig",
+      "accidents": "Unfäll oder höheri Gwalt",
+      "repairs": "Eigemächtigi Reparaturversuech"
+    },
+    "section7": {
+      "title": "§ 7 Haftigsbeschränkig",
+      "unlimited": "De Abieter haftet unbeschränkt für Schäde us de Verletzig vom Läbe, vom Körper oder vo de Gsundheit, wo uf ere vorsätzliche oder fahrlässige Pflichtverletzig beruehed.",
+      "limited": "Für sonstigi Schäde haftet de Abieter nur bi Verletzig vo wesentliche Vertragspflichte, jedoch de Höchi nach begränzt uf d bi Vertragsschluss vorhersehbare und vertragstypische Schäde.",
+      "excluded": "D Haftig für mittelbari Schäde und entgangene Gwinn isch usgschlosse."
+    },
+    "section8": {
+      "title": "§ 8 Dateschutz",
+      "processing": "De Abieter erhebt und verarbeitet personebezogeni Date nur im Rahme vo de gsetzliche Bestimmige.",
+      "details": "Detaillierti Informatione zum Dateschutz findet Sie i üsere Dateschutzerchlärig.",
+      "usage": "Ihri Date wärded usschließlich zur Vertragsabwicklig verwendet und nöd a Dritti wytergäh."
+    },
+    "section9": {
+      "title": "§ 9 Schlussbestimmige",
+      "law": "Awändbars Rächt:",
+      "germanLaw": "Es gilt s Rächt vo de Bundesrepublik Dütschland under Usschluss vom UN-Chaufrächt.",
+      "jurisdiction": "Grichtsstand:",
+      "court": "Grichtsstand für alli Stritigkeite isch de Sitz vom Abieter, sofern de Kunde Chaufma, juristischi Person vom öffentliche Rächt oder öffentlich-rächtlichs Sondervermöge isch.",
+      "severability": "Salvatorischi Klausel:",
+      "validity": "Sölled einzelni Bestimmige vo dene AGB unwirksam sii oder wärde, blibt d Wirksamkeit vo de übrige Bestimmige unberüehrt.",
+      "changes": "Änderige vo de AGB:",
+      "modification": "De Abieter behält sich vor, desi AGB z ändere. Kunde wärded über Änderige per E-Mail informiert."
+    },
+    "contact": {
+      "title": "Kontakt:",
+      "description": "Bi Frage zu dene AGB oder üsem Service kontaktiere Sie üs gärn:",
+      "email": "E-Mail: info@prowerkgm.ch",
+      "lastUpdated": "Stand: Januar 2025 | Desi AGB sind zletscht am 1. Januar 2025 aktualisiert worde."
+    }
+  },
+  "trustBadges": {
+    "warranty": {
+      "title": "3 Jahr Garantie",
+      "description": "Uf alli Produkt"
+    },
+    "original": {
+      "title": "100% Original",
+      "description": "Nur Originalware"
+    },
+    "shipping": {
+      "title": "Chostelosi Lieferig",
+      "description": "I ganz Europa"
+    },
+    "payment": {
+      "title": "Sicheri Zahlig",
+      "description": "SSL verschlüsselt"
+    },
+    "returns": {
+      "title": "14 Täg Rückgab",
+      "description": "Ohni Agab vo Gründ"
+    },
+    "support": {
+      "title": "Fachkundigi Beratig",
+      "description": "24/7 Support"
+    }
+  }
+}

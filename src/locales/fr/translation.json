@@ -1,0 +1,302 @@
+{
+  "general": {
+    "appName": "ProWerk",
+    "tagline": "Outils Professionnels Premium",
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "notFound": "Page non trouvée",
+    "goBack": "Retour",
+    "goHome": "Aller à l'accueil"
+  },
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "cart": "Panier",
+    "returnPolicy": "Politique de retour"
+  },
+  "home": {
+    "hero": {
+      "title": "Outils professionnels pour les professionnels",
+      "subtitle": "Outils de haute qualité pour des applications exigeantes",
+      "cta": "Découvrir les produits"
+    },
+    "featured": {
+      "title": "Produits en vedette",
+      "viewAll": "Voir tout"
+    },
+    "benefits": {
+      "title": "Pourquoi ProWerk ?",
+      "quality": {
+        "title": "Qualité Premium",
+        "description": "Tous nos produits sont des marchandises originales avec 3 ans de garantie"
+      },
+      "delivery": {
+        "title": "Livraison rapide",
+        "description": "Livraison gratuite dans toute l'Europe sous 14 jours"
+      },
+      "support": {
+        "title": "Conseil d'expert",
+        "description": "Notre équipe est disponible pour répondre à vos questions"
+      }
+    },
+    "trustBadges": {
+      "title": "Pourquoi faire confiance à ProWerk ?"
+    }
+  },
+  "products": {
+    "title": "Tous les produits",
+    "categories": {
+      "all": "Toutes les catégories",
+      "drills": "Perceuses",
+      "saws": "Scies",
+      "sanders": "Ponceuses",
+      "lasers": "Lasers et instruments de mesure",
+      "outdoor": "Outils de jardin",
+      "robotVacuums": "Aspirateurs robots",
+      "powerStations": "Stations d'alimentation",
+      "mowers": "Tondeuses",
+      "chainsaws": "Tronçonneuses",
+      "cutters": "Meuleuses d'angle",
+      "vacuums": "Aspirateurs",
+      "washingMachines": "Machines à laver",
+      "refrigerators": "Réfrigérateurs",
+      "fryers": "Friteuses",
+      "solarSystems": "Systèmes solaires",
+      "heatingBoilers": "Chaudières de chauffage",
+      "televisions": "Téléviseurs",
+      "audioSystems": "Systèmes audio",
+      "lawnTractors": "Tracteurs de pelouse",
+      "industrialVacuums": "Aspirateurs industriels",
+      "coffeeAutomats": "Machines à café",
+      "hairStyling": "Coiffure",
+      "woodChippers": "Broyeurs de bois",
+      "pressureWashers": "Nettoyeurs haute pression",
+      "laserTools": "Outils laser",
+      "thermomix": "Robots de cuisine",
+      "mowingRobots": "Robots tondeuses"
+    },
+    "filters": {
+      "title": "Filtres",
+      "price": "Prix",
+      "category": "Catégorie",
+      "apply": "Appliquer",
+      "reset": "Réinitialiser"
+    },
+    "sort": {
+      "title": "Trier",
+      "newest": "Plus récent d'abord",
+      "priceAsc": "Prix : croissant",
+      "priceDesc": "Prix : décroissant"
+    },
+    "noResults": "Aucun produit trouvé"
+  },
+  "product": {
+    "addToCart": "Ajouter au panier",
+    "specifications": "Données techniques",
+    "description": "Description",
+    "features": "Caractéristiques",
+    "warranty": "3 ans de garantie",
+    "delivery": "Livraison gratuite dans toute l'Europe",
+    "original": "Produit original",
+    "inStock": "En stock",
+    "outOfStock": "Rupture de stock",
+    "relatedProducts": "Produits similaires"
+  },
+  "cart": {
+    "title": "Panier",
+    "empty": "Votre panier est vide",
+    "continueShopping": "Continuer les achats",
+    "proceedToCheckout": "Passer à la caisse",
+    "total": "Total",
+    "subtotal": "Sous-total",
+    "tax": "TVA (19%)",
+    "shipping": "Expédition",
+    "free": "Gratuit",
+    "remove": "Supprimer",
+    "update": "Mettre à jour",
+    "orderSummary": "Résumé de la commande"
+  },
+  "checkout": {
+    "title": "Commande",
+    "personalInfo": "Informations personnelles",
+    "shippingAddress": "Adresse de livraison",
+    "orderSummary": "Résumé de la commande",
+    "paymentMethod": "Mode de paiement",
+    "placeOrder": "Passer la commande",
+    "invoice": "Vous recevrez une facture par email",
+    "fields": {
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Email",
+      "phone": "Téléphone",
+      "country": "Pays",
+      "selectCountry": "Sélectionner un pays",
+      "city": "Ville",
+      "postalCode": "Code postal",
+      "address": "Adresse",
+      "promoCode": "Code promo"
+    },
+    "validation": {
+      "required": "Champ obligatoire",
+      "email": "Adresse email invalide",
+      "phone": "Numéro de téléphone invalide",
+      "postalCode": "Code postal invalide"
+    }
+  },
+  "orderConfirmation": {
+    "title": "Commande confirmée",
+    "thanks": "Merci pour votre commande !",
+    "emailSent": "Une confirmation a été envoyée à votre adresse email",
+    "orderNumber": "Numéro de commande",
+    "continueShopping": "Continuer les achats"
+  },
+  "returnPolicy": {
+    "title": "Politique de retour",
+    "subtitle": "Informations sur les retours et la garantie",
+    "warranty": {
+      "title": "3 ans de garantie",
+      "description": "Tous les produits ont une garantie de 3 ans à partir de la date d'achat"
+    },
+    "returns": {
+      "title": "Droit de retour",
+      "description": "Vous avez le droit de vous rétracter de l'achat dans les 14 jours suivant la réception des marchandises sans donner de raisons"
+    },
+    "process": {
+      "title": "Processus de retour",
+      "description": "Pour initier un retour, veuillez nous contacter par email"
+    },
+    "conditions": {
+      "title": "Conditions",
+      "description": "Les produits doivent être retournés dans leur emballage d'origine et non endommagés"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 ProWerk. Tous droits réservés.",
+    "contactUs": "Nous contacter",
+    "email": "info@prowerkgm.ch",
+    "links": "Liens",
+    "terms": "Conditions",
+    "privacy": "Confidentialité",
+    "returnPolicy": "Politique de retour",
+    "freeShipping": "DHL - Livraison gratuite dans toute l'Europe",
+    "paymentMethods": "Modes de paiement"
+  },
+  "agb": {
+    "title": "Conditions Générales de Vente",
+    "validFrom": "Valable à partir du : 1er janvier 2025",
+    "section1": {
+      "title": "§ 1 Champ d'application",
+      "content1": "Ces Conditions Générales de Vente (ci-après \"CGV\") s'appliquent à toutes les commandes passées via la boutique en ligne ProWerk (ci-après \"Fournisseur\").",
+      "provider": "Fournisseur :",
+      "company": "ProWerk",
+      "email": "Email : info@prowerkgm.ch",
+      "content2": "Les conditions divergentes du client ne sont pas reconnues, sauf si le fournisseur accepte expressément leur validité par écrit."
+    },
+    "section2": {
+      "title": "§ 2 Formation du contrat",
+      "content1": "La présentation des produits dans la boutique en ligne ne constitue pas une offre juridiquement contraignante, mais un catalogue en ligne non contraignant.",
+      "content2": "En cliquant sur le bouton \"Passer la commande\", vous passez une commande contraignante pour les marchandises contenues dans le panier.",
+      "content3": "Le contrat d'achat est conclu lorsque le fournisseur accepte la commande par email de confirmation de commande ou expédie les marchandises."
+    },
+    "section3": {
+      "title": "§ 3 Prix et conditions de paiement",
+      "content1": "Tous les prix incluent la TVA légale et autres composants de prix. Les prix sont indiqués en CHF (francs suisses), avec conversion en EUR (euros) à titre indicatif.",
+      "paymentMethods": "Modes de paiement disponibles :",
+      "bankTransfer": "Prépaiement (virement bancaire)",
+      "creditCard": "Carte de crédit (VISA) - actuellement temporairement indisponible",
+      "paymentTerms": "Pour le prépaiement, le montant de la facture doit être viré dans les 14 jours suivant la réception de la facture. Les marchandises seront expédiées après réception du paiement.",
+      "bankDetails": "Coordonnées bancaires :",
+      "iban": "IBAN : CH4683036850217684504",
+      "bic": "BIC : RDCTCHZHXXX",
+      "recipient": "Bénéficiaire : Pro Werk"
+    },
+    "section4": {
+      "title": "§ 4 Livraison et expédition",
+      "content1": "La livraison s'effectue à l'adresse de livraison indiquée par le client dans toute l'Europe.",
+      "deliveryTimes": "Délais de livraison :",
+      "germany": "Allemagne : 3-5 jours ouvrables",
+      "austria": "Autriche : 5-7 jours ouvrables",
+      "switzerland": "Suisse : 7-14 jours ouvrables",
+      "eu": "Autres pays de l'UE : 7-14 jours ouvrables",
+      "norway": "Norvège, Islande : 10-14 jours ouvrables",
+      "shipping": "L'expédition se fait via DHL. Les frais d'expédition sont inclus dans le prix d'achat (livraison gratuite dans toute l'Europe).",
+      "availability": "En cas d'indisponibilité d'une marchandise, le client sera informé immédiatement. Dans ce cas, le contrat ne devient pas effectif."
+    },
+    "section5": {
+      "title": "§ 5 Droit de rétractation",
+      "instruction": "Instructions de rétractation :",
+      "right": "Vous avez le droit de vous rétracter de ce contrat dans un délai de quatorze jours sans donner de motif.",
+      "period": "Le délai de rétractation est de quatorze jours à compter du jour où vous ou un tiers désigné par vous, qui n'est pas le transporteur, avez pris possession des marchandises.",
+      "exercise": "Pour exercer votre droit de rétractation, vous devez nous informer (ProWerk, Email : info@prowerkgm.ch) de votre décision de vous rétracter de ce contrat au moyen d'une déclaration dénuée d'ambiguïté.",
+      "consequences": "Conséquences de la rétractation :",
+      "refund": "Si vous vous rétractez de ce contrat, nous vous rembourserons tous les paiements reçus de vous, sans délai et au plus tard dans les quatorze jours à compter du jour où nous sommes informés de votre décision de vous rétracter de ce contrat."
+    },
+    "section6": {
+      "title": "§ 6 Garantie et garantie",
+      "legal": "Les dispositions légales de garantie s'appliquent.",
+      "manufacturer": "Garantie fabricant :",
+      "warranty": "Tous les produits bénéficient d'une garantie fabricant de 3 ans à compter de la date d'achat. Les conditions de garantie sont régies par les spécifications respectives du fabricant.",
+      "coverage": "La garantie comprend la réparation gratuite ou le remplacement pour les défauts de fabrication et les défauts de matériau.",
+      "exclusions": "Sont exclus de la garantie les dommages causés par :",
+      "misuse": "Utilisation inappropriée",
+      "wear": "Usure normale",
+      "accidents": "Accidents ou force majeure",
+      "repairs": "Tentatives de réparation non autorisées"
+    },
+    "section7": {
+      "title": "§ 7 Limitation de responsabilité",
+      "unlimited": "Le fournisseur est responsable sans limitation pour les dommages résultant d'une atteinte à la vie, au corps ou à la santé basée sur une violation intentionnelle ou négligente du devoir.",
+      "limited": "Pour les autres dommages, le fournisseur n'est responsable qu'en cas de violation d'obligations contractuelles essentielles, mais limité en montant aux dommages prévisibles au moment de la conclusion du contrat et typiques du contrat.",
+      "excluded": "La responsabilité pour les dommages indirects et le manque à gagner est exclue."
+    },
+    "section8": {
+      "title": "§ 8 Protection des données",
+      "processing": "Le fournisseur collecte et traite les données personnelles uniquement dans le cadre des dispositions légales.",
+      "details": "Des informations détaillées sur la protection des données peuvent être trouvées dans notre politique de confidentialité.",
+      "usage": "Vos données sont utilisées exclusivement pour le traitement du contrat et ne sont pas transmises à des tiers."
+    },
+    "section9": {
+      "title": "§ 9 Dispositions finales",
+      "law": "Droit applicable :",
+      "germanLaw": "Le droit de la République fédérale d'Allemagne s'applique, à l'exclusion de la Convention de Vienne sur la vente.",
+      "jurisdiction": "Juridiction :",
+      "court": "Le lieu de juridiction pour tous les litiges est le siège du fournisseur, à condition que le client soit un commerçant, une personne morale de droit public ou un fonds spécial de droit public.",
+      "severability": "Clause de divisibilité :",
+      "validity": "Si des dispositions individuelles de ces CGV sont ou deviennent invalides, la validité des dispositions restantes demeure inaffectée.",
+      "changes": "Modifications des CGV :",
+      "modification": "Le fournisseur se réserve le droit de modifier ces CGV. Les clients seront informés des modifications par email."
+    },
+    "contact": {
+      "title": "Contact :",
+      "description": "Si vous avez des questions sur ces CGV ou notre service, n'hésitez pas à nous contacter :",
+      "email": "Email : info@prowerkgm.ch",
+      "lastUpdated": "État : janvier 2025 | Ces CGV ont été mises à jour pour la dernière fois le 1er janvier 2025."
+    }
+  },
+  "trustBadges": {
+    "warranty": {
+      "title": "3 ans de garantie",
+      "description": "Sur tous les produits"
+    },
+    "original": {
+      "title": "100% Original",
+      "description": "Seulement des marchandises originales"
+    },
+    "shipping": {
+      "title": "Livraison gratuite",
+      "description": "Dans toute l'Europe"
+    },
+    "payment": {
+      "title": "Paiement sécurisé",
+      "description": "Crypté SSL"
+    },
+    "returns": {
+      "title": "14 jours de retour",
+      "description": "Sans donner de raisons"
+    },
+    "support": {
+      "title": "Conseil d'expert",
+      "description": "Support 24/7"
+    }
+  }
+}
